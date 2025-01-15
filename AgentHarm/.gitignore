@@ -1,0 +1,8 @@
+.env
+__pycache__
+tmp*
+logs/
+__pycache__/
+pyrightconfig.json
+.vscode/
+.DS_Store
